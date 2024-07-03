@@ -13,4 +13,4 @@ Sorry, I'm not really looking for contributors. But feel free to reach out if yo
 # 📜 License  
 Copyright (c) 2023 Arlin Schaffel
 
-Licensed under the MIT License, available here: https://github.com/FeXd/playground/blob/main/LICENSE.md
+Licensed under the MIT License, available here: https://github.com/FeXd/play/blob/main/LICENSE.md
